@@ -1,5 +1,5 @@
-torch>=2.0
-torchvision>=0.15
+# # torch>=2.0 (CPU version installed via Dockerfile) (CPU version installed via Dockerfile)
+# torchvision>=0.15 (CPU version installed via Dockerfile)
 streamlit>=1.30
 numpy
 pillow
